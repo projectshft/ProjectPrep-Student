@@ -18,7 +18,3 @@
 
   // Inovke the created function
   createBoxes(10)
-
-  function poop() {
-    console.log('sdfs');
-  }
